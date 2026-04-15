@@ -1,13 +1,14 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Tech Vision Banner" />
-  <br>
+  <br><br>
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
-  <p><strong>Aspiring Data Scientist • AI & DS Scholar • Full-Stack Builder</strong></p>
-  <p>Driven by curiosity, resilience, and the power of technology to solve real problems.</p>
+  <p><strong>Aspiring Data Scientist • AI & DS Scholar • Full-Stack Problem Solver</strong></p>
+  <p>Building intelligent systems with strong engineering, data, and resilience.</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=blue" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square&logo=github" alt="Open to Opportunities" />
-    <img src="https://img.shields.io/badge/Goal-Aspiring%20Data%20Scientist-orange?style=flat-square" alt="Career Goal" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=github" alt="Open to Opportunities" />
+    <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Scientist-blue?style=flat-square" alt="Career Goal" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square" alt="Focus" />
   </p>
 </div>
 
@@ -17,78 +18,90 @@
 
 I am **Rushal**, a dedicated technologist and continuous learner from India. I build systems that combine strong engineering fundamentals with data-driven intelligence.
 
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Matoshri College of Engineering & Research Centre (MCOERC)**.
-- 📚 Following the **Matoshri Autonomous Pattern (2024)** curriculum with an industry-aligned focus.
-- 🔧 Passionate about **Python**, **Machine Learning**, **Web Development**, and **agentic AI workflows**.
-- 🌱 Believer in the power of **hard work**, **resilience**, and staying grounded through daily inspiration from **Marathi and Hindi Suvichars**.
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)** at **Matoshri College of Engineering & Research Centre (MCOERC)**.
+- 📚 Learning through the **Matoshri Autonomous Pattern (2024)** curriculum with a practical, industry-ready focus.
+- 🔧 Building full-stack applications with **Python**, **JavaScript**, and modern AI toolchains.
+- 🌱 Driven by **hard work**, **resilience**, and daily inspiration from **Marathi and Hindi Suvichars**.
 
 > “Hard work, resilience, and a passion for learning pave the road to innovation.”
 
 ---
 
-## 💡 Values & Motivation
+## 🌟 What I Do
 
-- Technology is strongest when built by a resilient mindset.
-- I draw motivation from cultural wisdom, poetic reflections, and focused self-discipline.
-- My family is my foundation — guided by the values of my father, **Anna Mahadu Bangar**, and balanced by the support of my sister, **Ishwari**.
-- I build with empathy, practical impact, and a growth mindset.
+- Develop end-to-end web and AI applications.
+- Design user-centered interfaces and reliable backend systems.
+- Use machine learning to turn data into actionable insights.
+- Rapidly prototype ideas with a focus on real campus impact.
 
 ---
 
-## 🎓 Academic Journey
+## 🎯 Current Focus
 
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Specialization:** Artificial Intelligence & Data Science (AI & DS)
-- **College:** Matoshri College of Engineering & Research Centre (MCOERC)
-- **Pattern:** Matoshri Autonomous Pattern (2024)
-- Completed **first semester foundations** and currently exploring advanced **algorithmic logic**, **AI workflows**, and **core engineering principles**.
-- Actively collaborate with faculty to bridge theory and practical campus technology solutions.
+- 🧠 Building **VivaVox** — an AI interview analysis tool for **INNOFEST**.
+- 📘 Enhancing my skills in **machine learning**, **data engineering**, and **prompt engineering**.
+- 🚀 Expanding my project portfolio with tools that support students and campus communities.
 
 ---
 
 ## 🧠 Technical Arsenal
 
-| Frontend | Backend & Data | AI / Tools |
-| --- | --- | --- |
-| HTML5 | Python | Agentic AI |
-| CSS3 | PostgreSQL | Machine Learning |
-| JavaScript | Supabase | AI-Assisted Dev |
-| Responsive UI | Data Modelling | Rapid Prototyping |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C6FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/AI-FFFFFF?style=for-the-badge&logo=ai&logoColor=black" alt="AI" />
+</p>
 
 ---
 
-## 💼 Projects & Engineering in Action
+## 💼 Featured Projects
+
+### 📌 Pinned Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=MatoshriCATPrep&theme=radical" alt="MatoshriCATPrep" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=practice-dashboard&theme=radical" alt="Practice Dashboard" />
+</div>
 
 ### MatoshriCATPrep
-- Full-stack exam prep platform for MCQ practice.
-- Managed database design, UI/UX, and analytics tracking.
-- Presented to faculty and formally adopted by the department for student use.
+- Developed a full-stack MCQ practice platform for student exam preparation.
+- Managed data architecture, analytics, and an adaptive learning UI.
+- Officially presented to faculty and adopted for departmental use.
 
 ### VivaVox
-- AI-powered interview analysis tool built for the **INNOFEST** competition.
-- Designed complete frontend experience using **HTML/CSS/JS**.
-- Developed backend architecture in **Python** to power intelligent analysis.
+- Building an AI-driven interview analysis platform for **INNOFEST**.
+- Created a polished **HTML/CSS/JS** frontend and a Python-powered backend.
+- Focused on real-time feedback and smart interview insights.
 
-### Hackathons & Prototyping
-- Solo developer at **Google Developer Student Clubs (GDSC) BUILD X**.
-- Strengthened skills in **rapid innovation**, **technical decision-making**, and **delivery under pressure**.
-
----
-
-## 🌟 Professional Horizon
-
-- Focused on becoming a **Data Scientist with specialization in Machine Learning**.
-- Recovered and rebuilt my professional digital presence after a strict **five-month account verification** process.
-- Actively improving communication, team leadership, and presentation skills.
-- I aim to deliver solutions that are not only technically sound but also human-centered.
+### Build X Hackathon
+- Solo competitor at **Google Developer Student Clubs BUILD X**.
+- Designed and delivered a rapid prototype under pressure.
+- Improved my capability to ship high-quality work quickly.
 
 ---
 
-## 📊 GitHub Profile Highlights
+## 🏆 Achievements
+
+- ✅ Built and launched a campus-ready exam prep platform.
+- ✅ Secured formal department adoption for **MatoshriCATPrep**.
+- ✅ Restored my professional presence after a **five-month account recovery**.
+- ✅ Selected for **INNOFEST** to showcase AI-driven interview tooling.
+
+---
+
+## 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -97,7 +110,7 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 
 - **LinkedIn:** [linkedin.com/in/rushal-bangar](https://www.linkedin.com)
 - **GitHub:** [github.com/RushalBangar](https://github.com/RushalBangar)
-- **Email:** `rushal@example.com`
+- **Email:** `rushalbangar19@gmail.com`
 
 ---
 

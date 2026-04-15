@@ -54,7 +54,7 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 </details>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80%" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="80%" alt="AI Animation" />
 </div>
 
 ---
@@ -80,7 +80,6 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=MatoshriCATPrep&theme=radical" alt="MatoshriCATPrep" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=practice-dashboard&theme=radical" alt="Practice Dashboard" />
 </div>
 
 ### MatoshriCATPrep

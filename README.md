@@ -4,6 +4,8 @@
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
   <p><strong>Aspiring Data Scientist • AI & DS Scholar • Full-Stack Problem Solver</strong></p>
   <p>Building intelligent systems with strong engineering, data, and resilience.</p>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Code.+Learn.+Repeat.;Crafting+AI+tools+for+students.;Growing+through+every+project." alt="Typing SVG" />
   <p>
     <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=blue" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=github" alt="Open to Opportunities" />
@@ -41,6 +43,19 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 - 🧠 Building **VivaVox** — an AI interview analysis tool for **INNOFEST**.
 - 📘 Enhancing my skills in **machine learning**, **data engineering**, and **prompt engineering**.
 - 🚀 Expanding my project portfolio with tools that support students and campus communities.
+
+<details>
+<summary>✨ Click to explore what I'm building next</summary>
+
+- **Next milestone:** complete VivaVox AI interview scoring and feedback flow.
+- **Daily habits:** Python coding, model evaluation, prompt tuning, and UI polish.
+- **Campus value:** building tools that help students prepare smarter and faster.
+
+</details>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80%" alt="Coding Animation" />
+</div>
 
 ---
 

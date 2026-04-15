@@ -2,10 +2,10 @@
   <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Tech Vision Banner" />
   <br><br>
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
-  <p><strong>Aspiring Data Scientist • AI & DS Scholar • Full-Stack Problem Solver</strong></p>
-  <p>Building intelligent systems with strong engineering, data, and resilience.</p>
+  <p><strong>AI & DS Scholar | Aspiring Data Scientist | Full-Stack AI Builder</strong></p>
+  <p>Building AI-powered tools that help students, faculty, and campuses work smarter.</p>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Code.+Learn.+Repeat.;Crafting+AI+tools+for+students.;Growing+through+every+project." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Code.+Learn.+Build.;Creating+data-driven+campus+solutions.;Solving+real+student+problems." alt="Typing SVG" />
   <p>
     <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=blue" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=github" alt="Open to Opportunities" />
@@ -18,12 +18,12 @@
 
 ## 🚀 About Me
 
-I am **Rushal**, a dedicated technologist and continuous learner from India. I build systems that combine strong engineering fundamentals with data-driven intelligence.
+I am **Rushal**, a first-year B.Tech student specializing in **Artificial Intelligence & Data Science** at **Matoshri College of Engineering & Research Centre (MCOERC)**.
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science (AI & DS)** at **Matoshri College of Engineering & Research Centre (MCOERC)**.
-- 📚 Learning through the **Matoshri Autonomous Pattern (2024)** curriculum with a practical, industry-ready focus.
-- 🔧 Building full-stack applications with **Python**, **JavaScript**, and modern AI toolchains.
-- 🌱 Driven by **hard work**, **resilience**, and daily inspiration from **Marathi and Hindi Suvichars**.
+- 🎓 Building AI solutions with a strong foundation in software engineering and data modeling.
+- 💻 Creating real tools with **Python**, **JavaScript**, **HTML/CSS**, **PostgreSQL**, and **Supabase**.
+- 🌱 Inspired by Marathi and Hindi Suvichars, I focus on resilience, learning, and practical impact.
+- 🧩 Passionate about product-led AI experiences that solve student and campus challenges.
 
 > “Hard work, resilience, and a passion for learning pave the road to innovation.”
 
@@ -31,25 +31,25 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 
 ## 🌟 What I Do
 
-- Develop end-to-end web and AI applications.
-- Design user-centered interfaces and reliable backend systems.
-- Use machine learning to turn data into actionable insights.
-- Rapidly prototype ideas with a focus on real campus impact.
+- Build end-to-end AI and web applications.
+- Design intuitive user experiences for student tools.
+- Use data science to turn raw data into reliable decisions.
+- Rapidly prototype projects with clear campus value.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧠 Building **VivaVox** — an AI interview analysis tool for **INNOFEST**.
-- 📘 Enhancing my skills in **machine learning**, **data engineering**, and **prompt engineering**.
-- 🚀 Expanding my project portfolio with tools that support students and campus communities.
+- 🧠 Developing **VivaVox** — an AI-driven interview and viva analysis tool for **INNOFEST**.
+- 📘 Deepening expertise in **machine learning**, **data engineering**, and **prompt engineering**.
+- 📊 Building products that combine smart analytics with simple UX.
 
 <details>
 <summary>✨ Click to explore what I'm building next</summary>
 
-- **Next milestone:** complete VivaVox AI interview scoring and feedback flow.
-- **Daily habits:** Python coding, model evaluation, prompt tuning, and UI polish.
-- **Campus value:** building tools that help students prepare smarter and faster.
+- **Milestone:** finish VivaVox AI scoring and student feedback dashboard.
+- **Daily habits:** code review, model testing, prompt tuning, and UI polish.
+- **Goal:** deliver AI tools that help students learn faster and prepare better.
 
 </details>
 
@@ -78,33 +78,44 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 
 ### 📌 Pinned Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=MatoshriCATPrep&theme=radical" alt="MatoshriCATPrep" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" />
+  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" /></a>
+  <a href="https://github.com/RushalBangar/MatoshriCatPrep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=MatoshriCatPrep&theme=radical" alt="MatoshriCatPrep" /></a>
+  <a href="https://github.com/RushalBangar/AI-Library-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=AI-Library-management&theme=radical" alt="AI-Library-management" /></a>
 </div>
 
-### MatoshriCATPrep
-- Developed a full-stack MCQ practice platform for student exam preparation.
-- Managed data architecture, analytics, and an adaptive learning UI.
-- Officially presented to faculty and adopted for departmental use.
-
 ### VivaVox
-- Building an AI-driven interview analysis platform for **INNOFEST**.
-- Created a polished **HTML/CSS/JS** frontend and a Python-powered backend.
-- Focused on real-time feedback and smart interview insights.
+- AI-powered interview and viva evaluation platform for **INNOFEST**.
+- Developed a responsive **HTML/CSS/JS** frontend with a Python backend.
+- Focused on real-time candidate insights and performance feedback.
 
-### Build X Hackathon
-- Solo competitor at **Google Developer Student Clubs BUILD X**.
-- Designed and delivered a rapid prototype under pressure.
-- Improved my capability to ship high-quality work quickly.
+### MatoshriCATPrep
+- Full-stack MCQ practice platform for exam preparation.
+- Designed database, analytics, and an adaptive learning interface.
+- Presented to faculty and adopted by department staff.
+
+### AI-Library-management
+- Smart library automation system in progress.
+- Planned features: face recognition check-in, searchable inventory, and usage analytics.
+- Aims to modernize campus library operations with AI.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- ✅ Built and launched a campus-ready exam prep platform.
-- ✅ Secured formal department adoption for **MatoshriCATPrep**.
-- ✅ Restored my professional presence after a **five-month account recovery**.
-- ✅ Selected for **INNOFEST** to showcase AI-driven interview tooling.
+- ✅ Built and launched a campus-ready learning platform.
+- ✅ Delivered a project adopted by faculty for student exams.
+- ✅ Created an AI interview evaluator selected for **INNOFEST**.
+- ✅ Recovered my professional profile after a five-month verification process.
+
+---
+
+## 📈 What I'm Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Learning%3A%20Prompt%20Engineering-blue?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Currently-Learning%3A%20NLP-orange?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Currently-Learning%3A%20Model%20Evaluation-green?style=for-the-badge" alt="Model Evaluation" />
+</p>
 
 ---
 
@@ -129,5 +140,5 @@ I am **Rushal**, a dedicated technologist and continuous learner from India. I b
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+systems+with+purpose.;Learning+continuously+from+every+project.;Turning+ideas+into+real+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+solutions+for+campus+life.;Learning+with+every+project.;Turning+ideas+into+AI+impact." alt="Typing SVG" />
 </div>

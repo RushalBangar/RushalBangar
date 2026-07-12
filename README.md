@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Modern Abstract Tech Banner" />
-  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Tech Banner" />
   
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
   <p><strong>Google Student Ambassador | B.Tech AI & DS Scholar | Full-Stack AI Developer</strong></p>
   <p>Architecting intelligent web platforms and data-driven solutions that connect students and campus communities.</p>
-  <br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador+🌟;B.Tech+in+Artificial+Intelligence+%26+Data+Science+🧠;Building+EduSphere+%26+VivaVox+🚀;Turning+complex+data+into+impactful+tools+💻" alt="Typing SVG" />
-
+  
   <br><br>
+  
   <p>
     <img src="https://komarev.com/ghpvc/?username=RushalBangar&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge&logo=github" alt="Open to Collaborations" />
@@ -18,9 +17,11 @@
   </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 About Me
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
 
 I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intelligence & Data Science** at **Matoshri College of Engineering & Research Centre (MCOERC), Nashik**.
 
@@ -30,7 +31,9 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 > *"I blend academic rigor with practical engineering to build models that solve real-world problems and abstract complexity into elegant, high-performance user experiences."*
 
----
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🌟 What I Do
 
@@ -39,7 +42,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - **Data Engineering**: Design efficient schemas and database architectures using **PostgreSQL**, **Supabase**, and **MongoDB**.
 - **Community Leadership**: Leading workshops and hackathons as a Google Student Ambassador to foster collaborative technical learning.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧠 Technical Arsenal
 
@@ -72,14 +75,14 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 💼 Featured Projects
 
 ### 📌 Pinned Repositories
 <div align="center">
-  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical" alt="EduSphere" /></a>
-  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" /></a>
+  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=tokyonight" alt="EduSphere" /></a>
+  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=tokyonight" alt="VivaVox" /></a>
 </div>
 
 ### 🌌 [EduSphere](https://github.com/RushalBangar/EduSphere)
@@ -105,7 +108,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - Built a secure practice platform for students preparing for examinations.
 - Features custom analytics, randomized test sets, and direct department adoption by staff.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 Certifications & Verifications
 
@@ -116,18 +119,20 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - 🏷️ **AI for Beginners** — *HP LIFE* (April 2026)
 - 🏷️ **Website UI/UX Designing using ChatGPT** — *Simplilearn SkillUp* (February 2026)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&count_private=true" alt="Rushal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=tokyonight&count_private=true" alt="Rushal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔗 Let's Connect!
 

@@ -81,8 +81,8 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 ### 📌 Pinned Repositories
 <div align="center">
-  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=tokyonight" alt="EduSphere" /></a>
-  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=tokyonight" alt="VivaVox" /></a>
+  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical" alt="EduSphere" /></a>
+  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" /></a>
 </div>
 
 ### 🌌 [EduSphere](https://github.com/RushalBangar/EduSphere)
@@ -124,12 +124,12 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=tokyonight&count_private=true" alt="Rushal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&count_private=true" alt="Rushal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Tech Banner" />
+  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Modern Abstract Tech Banner" />
   
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
   <p><strong>Google Student Ambassador | B.Tech AI & DS Scholar | Full-Stack AI Developer</strong></p>
   <p>Architecting intelligent web platforms and data-driven solutions that connect students and campus communities.</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador+🌟;B.Tech+in+Artificial+Intelligence+%26+Data+Science+🧠;Building+EduSphere+%26+VivaVox+🚀;Turning+complex+data+into+impactful+tools+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador;B.Tech+in+AI+%26+Data+Science;Building+EduSphere+%26+VivaVox;Architecting+intelligent+solutions" alt="Typing SVG" />
   
   <br><br>
   
@@ -126,10 +126,10 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&count_private=true" alt="Rushal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical" alt="Rushal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

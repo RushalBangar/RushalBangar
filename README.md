@@ -9,11 +9,12 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador+🌟;B.Tech+in+Artificial+Intelligence+%26+Data+Science+🧠;Building+EduSphere+%26+VivaVox+🚀;Turning+complex+data+into+impactful+tools+💻" alt="Typing SVG" />
 
+  <br><br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=FF6B00&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=flat-square&logo=github" alt="Open to Collaborations" />
-    <img src="https://img.shields.io/badge/Role-Google%20Student%20Ambassador-blue?style=flat-square&logo=google" alt="Google Ambassador" />
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=RushalBangar&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge&logo=github" alt="Open to Collaborations" />
+    <img src="https://img.shields.io/badge/Role-Google%20Student%20Ambassador-blue?style=for-the-badge&logo=google" alt="Google Ambassador" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=for-the-badge" alt="Focus" />
   </p>
 </div>
 
@@ -42,19 +43,40 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 ## 🧠 Technical Arsenal
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, SQL, HTML5, CSS3 |
-| **Libraries & Frameworks** | React, Node.js, TensorFlow, PyTorch |
-| **Databases & Backends** | PostgreSQL, Supabase, MongoDB |
-| **AI & Prompt Engineering** | LLM Orchestration, Prompt Tuning, Model Evaluation, RAG (NotebookLM) |
-| **Workflow & DevOps** | Git & GitHub, UI/UX Prototyping |
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+### Libraries & Frameworks
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+
+### Databases & Backends
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+### AI & Tools
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 📌 Pinned Projects
+### 📌 Pinned Repositories
 <div align="center">
   <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical" alt="EduSphere" /></a>
   <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" /></a>
@@ -100,6 +122,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&count_private=true" alt="Rushal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
 </div>
@@ -109,8 +132,8 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 ## 🔗 Let's Connect!
 
 <div align="center">
-  <a href="https://rushalbangar.com">
-    <img src="https://img.shields.io/badge/Website-rushalbangar.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://rushalbangar.netlify.app">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/rushal-bangar-395a64385/">
     <img src="https://img.shields.io/badge/LinkedIn-Rushal%20Bangar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

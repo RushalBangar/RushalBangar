@@ -1,25 +1,23 @@
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Modern Abstract Tech Banner" />
+  
+  <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
+  <p><strong>Google Student Ambassador | B.Tech AI & DS Scholar | Full-Stack AI Developer</strong></p>
+  <p>Architecting intelligent web platforms and data-driven solutions that connect students and campus communities.</p>
 
-![Modern Abstract Tech Banner](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1200&h=350&auto=format&fit=crop)
-
-<h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
-<p><strong>Google Student Ambassador | B.Tech AI & DS Scholar | Full-Stack AI Developer</strong></p>
-<p>Architecting intelligent web platforms and data-driven solutions that connect students and campus communities.</p>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador;B.Tech+in+AI+%26+Data+Science;Building+EduSphere+%26+VivaVox;Architecting+intelligent+solutions)
-
-<br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RushalBangar&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge&logo=github" alt="Open to Collaborations" />
-  <img src="https://img.shields.io/badge/Role-Google%20Student%20Ambassador-blue?style=for-the-badge&logo=google" alt="Google Ambassador" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=for-the-badge" alt="Focus" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador;B.Tech+in+AI+%26+Data+Science;Building+EduSphere+%26+VivaVox;Architecting+intelligent+solutions&v=2" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=RushalBangar&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=for-the-badge&logo=github" alt="Open to Collaborations" />
+    <img src="https://img.shields.io/badge/Role-Google%20Student%20Ambassador-blue?style=for-the-badge&logo=google" alt="Google Ambassador" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=for-the-badge" alt="Focus" />
+  </p>
 </div>
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 About Me
 
@@ -35,7 +33,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 <br><br>
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🌟 What I Do
 
@@ -44,7 +42,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - **Data Engineering**: Design efficient schemas and database architectures using **PostgreSQL**, **Supabase**, and **MongoDB**.
 - **Community Leadership**: Leading workshops and hackathons as a Google Student Ambassador to foster collaborative technical learning.
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧠 Technical Arsenal
 
@@ -77,16 +75,14 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 💼 Featured Projects
 
 ### 📌 Pinned Repositories
 <div align="center">
-
-[![EduSphere](https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical)](https://github.com/RushalBangar/EduSphere)
-[![VivaVox](https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical)](https://github.com/RushalBangar/VivaVox)
-
+  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical&v=2" alt="EduSphere" /></a>
+  <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical&v=2" alt="VivaVox" /></a>
 </div>
 
 ### 🌌 [EduSphere](https://github.com/RushalBangar/EduSphere)
@@ -112,7 +108,7 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - Built a secure practice platform for students preparing for examinations.
 - Features custom analytics, randomized test sets, and direct department adoption by staff.
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 Certifications & Verifications
 
@@ -123,26 +119,20 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 - 🏷️ **AI for Beginners** — *HP LIFE* (April 2026)
 - 🏷️ **Website UI/UX Designing using ChatGPT** — *Simplilearn SkillUp* (February 2026)
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15)
-
-<br>
-
-![Rushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RushalBangar&theme=radical)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=RushalBangar&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15&v=2" alt="GitHub Trophies" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&v=2" alt="Rushal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushalBangar&theme=radical&layout=compact&v=2" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=RushalBangar&theme=radical&v=2" alt="GitHub Streak" />
 </div>
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔗 Let's Connect!
 
@@ -162,9 +152,6 @@ I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intel
 </div>
 
 <br>
-
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+solutions+for+campus+life.;Connecting+developers+and+bridging+tech+gaps.;Turning+ideas+into+AI+impact.)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+solutions+for+campus+life.;Connecting+developers+and+bridging+tech+gaps.;Turning+ideas+into+AI+impact.&v=2" alt="Typing SVG" />
 </div>

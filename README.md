@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Tech Vision Banner" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&h=350&auto=format&fit=crop" width="100%" alt="Modern Abstract Tech Banner" />
   <br><br>
+  
   <h1>Hi, I'm <strong>Rushal Bangar</strong> 👋</h1>
-  <p><strong>AI & DS Scholar | Aspiring Data Scientist | Full-Stack AI Builder</strong></p>
-  <p>Building AI-powered tools that help students, faculty, and campuses work smarter.</p>
+  <p><strong>Google Student Ambassador | B.Tech AI & DS Scholar | Full-Stack AI Developer</strong></p>
+  <p>Architecting intelligent web platforms and data-driven solutions that connect students and campus communities.</p>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FFFFFF&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Code.+Learn.+Build.;Creating+data-driven+campus+solutions.;Solving+real+student+problems." alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=50&lines=Google+Student+Ambassador+🌟;B.Tech+in+Artificial+Intelligence+%26+Data+Science+🧠;Building+EduSphere+%26+VivaVox+🚀;Turning+complex+data+into+impactful+tools+💻" alt="Typing SVG" />
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=blue" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=github" alt="Open to Opportunities" />
-    <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Scientist-blue?style=flat-square" alt="Career Goal" />
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=RushalBangar&color=FF6B00&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=flat-square&logo=github" alt="Open to Collaborations" />
+    <img src="https://img.shields.io/badge/Role-Google%20Student%20Ambassador-blue?style=flat-square&logo=google" alt="Google Ambassador" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20LLMs-orange?style=flat-square" alt="Focus" />
   </p>
 </div>
 
@@ -18,59 +21,34 @@
 
 ## 🚀 About Me
 
-I am **Rushal**, a first-year B.Tech student specializing in **Artificial Intelligence & Data Science** at **Matoshri College of Engineering & Research Centre (MCOERC)**.
+I am **Rushal**, a second-year B.Tech student specializing in **Artificial Intelligence & Data Science** at **Matoshri College of Engineering & Research Centre (MCOERC), Nashik**.
 
-- 🎓 Building AI solutions with a strong foundation in software engineering and data modeling.
-- 💻 Creating real tools with **Python**, **JavaScript**, **HTML/CSS**, **PostgreSQL**, and **Supabase**.
-- 🌱 Inspired by Marathi and Hindi Suvichars, I focus on resilience, learning, and practical impact.
-- 🧩 Passionate about product-led AI experiences that solve student and campus challenges.
+- 🌟 **Google Student Ambassador**: Leading the campus tech community at **GDG on Campus**, hosting developer workshops, and connecting student talent with industry technology.
+- 🧠 **AI & Web Architect**: Bridging the gap between front-end aesthetics and backend AI capabilities to create intuitive, data-driven platforms.
+- ⚡ **Product-Led AI**: Designing tools that have immediate academic and campus utility, helping faculty and students work and learn smarter.
 
-> “Hard work, resilience, and a passion for learning pave the road to innovation.”
+> *"I blend academic rigor with practical engineering to build models that solve real-world problems and abstract complexity into elegant, high-performance user experiences."*
 
 ---
 
 ## 🌟 What I Do
 
-- Build end-to-end AI and web applications.
-- Design intuitive user experiences for student tools.
-- Use data science to turn raw data into reliable decisions.
-- Rapidly prototype projects with clear campus value.
-
----
-
-## 🎯 Current Focus
-
-- 🧠 Developing **VivaVox** — an AI-driven interview and viva analysis tool for **INNOFEST**.
-- 📘 Deepening expertise in **machine learning**, **data engineering**, and **prompt engineering**.
-- 📊 Building products that combine smart analytics with simple UX.
-
-<details>
-<summary>✨ Click to explore what I'm building next</summary>
-
-- **Milestone:** finish VivaVox AI scoring and student feedback dashboard.
-- **Daily habits:** code review, model testing, prompt tuning, and UI polish.
-- **Goal:** deliver AI tools that help students learn faster and prepare better.
-
-</details>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="80%" alt="AI Animation" />
-</div>
+- **Full-Stack Development**: Build responsive web applications powered by **TypeScript**, **React**, and **Node.js**.
+- **AI Integrations**: Integrate LLMs (Gemini, Claude) and custom ML pipelines into user-centric platforms.
+- **Data Engineering**: Design efficient schemas and database architectures using **PostgreSQL**, **Supabase**, and **MongoDB**.
+- **Community Leadership**: Leading workshops and hackathons as a Google Student Ambassador to foster collaborative technical learning.
 
 ---
 
 ## 🧠 Technical Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C6FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/AI-FFFFFF?style=for-the-badge&logo=ai&logoColor=black" alt="AI" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, SQL, HTML5, CSS3 |
+| **Libraries & Frameworks** | React, Node.js, TensorFlow, PyTorch |
+| **Databases & Backends** | PostgreSQL, Supabase, MongoDB |
+| **AI & Prompt Engineering** | LLM Orchestration, Prompt Tuning, Model Evaluation, RAG (NotebookLM) |
+| **Workflow & DevOps** | Git & GitHub, UI/UX Prototyping |
 
 ---
 
@@ -78,67 +56,74 @@ I am **Rushal**, a first-year B.Tech student specializing in **Artificial Intell
 
 ### 📌 Pinned Projects
 <div align="center">
+  <a href="https://github.com/RushalBangar/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=EduSphere&theme=radical" alt="EduSphere" /></a>
   <a href="https://github.com/RushalBangar/VivaVox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=VivaVox&theme=radical" alt="VivaVox" /></a>
-  <a href="https://github.com/RushalBangar/MatoshriCatPrep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=MatoshriCatPrep&theme=radical" alt="MatoshriCatPrep" /></a>
-  <a href="https://github.com/RushalBangar/AI-Library-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RushalBangar&repo=AI-Library-management&theme=radical" alt="AI-Library-management" /></a>
 </div>
 
-### VivaVox
-- AI-powered interview and viva evaluation platform for **INNOFEST**.
-- Developed a responsive **HTML/CSS/JS** frontend with a Python backend.
-- Focused on real-time candidate insights and performance feedback.
+### 🌌 [EduSphere](https://github.com/RushalBangar/EduSphere)
+*Next-Gen Intelligent Study Ecosystem*
+- Combines interactive **3D flashcards** with real-time AI reasoning and study assistance.
+- Built using **HTML5**, **CSS3**, **JavaScript**, and **NotebookLM** for adaptive learning workflows.
+- Designed to revolutionize personalized classroom study and information retention.
 
-### MatoshriCATPrep
-- Full-stack MCQ practice platform for exam preparation.
-- Designed database, analytics, and an adaptive learning interface.
-- Presented to faculty and adopted by department staff.
+### 🎙️ [VivaVox](https://github.com/RushalBangar/VivaVox)
+*AI-Driven Mock Interview & Viva Evaluator*
+- Selected for **INNOFEST** presentation.
+- Provides real-time multimodal evaluation and technical accuracy grading of candidate answers.
+- Built on a **React** & **TypeScript** frontend with a custom AI scoring pipeline.
 
-### AI-Library-management
-- Smart library automation system in progress.
-- Planned features: face recognition check-in, searchable inventory, and usage analytics.
-- Aims to modernize campus library operations with AI.
+### 🌊 [LifeGuard](https://github.com/RushalBangar/LifeGuard)
+*AI-Driven Flood Prediction & Early Alert System*
+- Developed to analyze massive environmental and weather datasets to predict flood events.
+- Utilized **Python**, **Machine Learning** classifiers, and interactive **Data Visualization** suites.
+- Focuses on providing early warning indicators to minimize potential geographical disaster impacts.
 
----
-
-## 🏆 Highlights
-
-- ✅ Built and launched a campus-ready learning platform.
-- ✅ Delivered a project adopted by faculty for student exams.
-- ✅ Created an AI interview evaluator selected for **INNOFEST**.
-- ✅ Recovered my professional profile after a five-month verification process.
-
----
-
-## 📈 What I'm Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-Learning%3A%20Prompt%20Engineering-blue?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Currently-Learning%3A%20NLP-orange?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Currently-Learning%3A%20Model%20Evaluation-green?style=for-the-badge" alt="Model Evaluation" />
-</p>
+### 📊 [MatoshriCATPrep](https://github.com/RushalBangar/MatoshriCatPrep)
+*Adaptive MCQ Practice & Faculty Portal*
+- Built a secure practice platform for students preparing for examinations.
+- Features custom analytics, randomized test sets, and direct department adoption by staff.
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🏆 Certifications & Verifications
+
+- 🏷️ **Generative AI for Educators with Gemini** — *Google & MIT RAISE* (April 2026)
+- 🏷️ **Claude 101 Foundations** — *Anthropic* (2026)
+- 🏷️ **MongoDB Core Concepts, Schema Design, SQL to Document Model** — *MongoDB University* (April 2026)
+- 🏷️ **Introduction to Artificial Intelligence** — *Simplilearn SkillUp* (March 2026)
+- 🏷️ **AI for Beginners** — *HP LIFE* (April 2026)
+- 🏷️ **Website UI/UX Designing using ChatGPT** — *Simplilearn SkillUp* (February 2026)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RushalBangar&show_icons=true&theme=radical&count_private=true" alt="Rushal's GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushalBangar&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🔗 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/rushal-bangar](https://www.linkedin.com)
-- **GitHub:** [github.com/RushalBangar](https://github.com/RushalBangar)
-- **Email:** `rushalbangar19@gmail.com`
-
----
+## 🔗 Let's Connect!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+solutions+for+campus+life.;Learning+with+every+project.;Turning+ideas+into+AI+impact." alt="Typing SVG" />
+  <a href="https://rushalbangar.com">
+    <img src="https://img.shields.io/badge/Website-rushalbangar.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/rushal-bangar-395a64385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rushal%20Bangar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/RushalBnagar">
+    <img src="https://img.shields.io/badge/Twitter-@RushalBnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:contact@rushalbangar.com">
+    <img src="https://img.shields.io/badge/Email-contact@rushalbangar.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=2000&color=FF6B00&background=0D0F13&center=true&vCenter=true&width=760&height=60&lines=Building+intelligent+solutions+for+campus+life.;Connecting+developers+and+bridging+tech+gaps.;Turning+ideas+into+AI+impact." alt="Typing SVG" />
 </div>

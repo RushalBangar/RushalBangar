@@ -1,0 +1,18 @@
+<svg width="780" height="360" viewBox="0 0 780 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="780" height="360" rx="36" fill="#020617"/>
+  <text x="42" y="58" font-family="Inter" font-size="28" fill="#A7F3D0" opacity="0.95">Local Trophies</text>
+  <g transform="translate(42, 96)">
+    <rect x="0" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#34D399" stroke-width="2" opacity="0.9"/>
+    <text x="110" y="46" font-family="Inter" font-size="34" fill="#34D399" text-anchor="middle">?</text>
+    <text x="110" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Active</text>
+    <text x="110" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Daily coding</text>
+    <rect x="260" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#22D3EE" stroke-width="2" opacity="0.9"/>
+    <text x="370" y="46" font-family="Inter" font-size="34" fill="#22D3EE" text-anchor="middle">??</text>
+    <text x="370" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Projects</text>
+    <text x="370" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Built with care</text>
+    <rect x="520" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#FBBF24" stroke-width="2" opacity="0.9"/>
+    <text x="630" y="46" font-family="Inter" font-size="34" fill="#FBBF24" text-anchor="middle">?</text>
+    <text x="630" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Speed</text>
+    <text x="630" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Fast UX</text>
+  </g>
+</svg>

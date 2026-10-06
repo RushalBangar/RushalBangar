@@ -1,18 +1,52 @@
-<svg width="780" height="360" viewBox="0 0 780 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="780" height="360" rx="36" fill="#020617"/>
-  <text x="42" y="58" font-family="Inter" font-size="28" fill="#A7F3D0" opacity="0.95">Local Trophies</text>
-  <g transform="translate(42, 96)">
-    <rect x="0" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#34D399" stroke-width="2" opacity="0.9"/>
-    <text x="110" y="46" font-family="Inter" font-size="34" fill="#34D399" text-anchor="middle">?</text>
-    <text x="110" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Active</text>
-    <text x="110" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Daily coding</text>
-    <rect x="260" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#22D3EE" stroke-width="2" opacity="0.9"/>
-    <text x="370" y="46" font-family="Inter" font-size="34" fill="#22D3EE" text-anchor="middle">??</text>
-    <text x="370" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Projects</text>
-    <text x="370" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Built with care</text>
-    <rect x="520" y="0" width="220" height="220" rx="26" fill="#0F172A" stroke="#FBBF24" stroke-width="2" opacity="0.9"/>
-    <text x="630" y="46" font-family="Inter" font-size="34" fill="#FBBF24" text-anchor="middle">?</text>
-    <text x="630" y="96" font-family="Inter" font-size="18" fill="#E2E8F0" text-anchor="middle">Speed</text>
-    <text x="630" y="130" font-family="Inter" font-size="16" fill="#94A3B8" text-anchor="middle">Fast UX</text>
+<svg width="780" height="240" viewBox="0 0 780 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="230" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0A0F1D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="780" height="240" rx="20" fill="#070A14" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="36" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#38BDF8" letter-spacing="0.05em">HONORS &amp; KEY MILESTONES</text>
+
+  <!-- Trophy Card 1: Google Student Ambassador -->
+  <g transform="translate(36, 56)">
+    <rect width="216" height="154" rx="14" fill="url(#cardGrad)" stroke="#10B981" stroke-width="1.2"/>
+    <!-- Star/Badge Icon -->
+    <g transform="translate(93, 20)">
+      <circle cx="15" cy="15" r="18" fill="#064E3B" fill-opacity="0.6"/>
+      <path d="M15 6L18 12.5L25 13.5L20 18.5L21.5 25.5L15 22L8.5 25.5L10 18.5L5 13.5L12 12.5L15 6Z" fill="#34D399"/>
+    </g>
+    <text x="108" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC" text-anchor="middle">Google Ambassador</text>
+    <text x="108" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Student Ambassador</text>
+    <text x="108" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#34D399" text-anchor="middle">Community &amp; Tech Lead</text>
+  </g>
+
+  <!-- Trophy Card 2: Production Deployments -->
+  <g transform="translate(282, 56)">
+    <rect width="216" height="154" rx="14" fill="url(#cardGrad)" stroke="#38BDF8" stroke-width="1.2"/>
+    <!-- Rocket/Ship Icon -->
+    <g transform="translate(93, 20)">
+      <circle cx="15" cy="15" r="18" fill="#0C4A6E" fill-opacity="0.6"/>
+      <path d="M15 6C15 6 22 9 22 17C22 20 20 22 18 23L15 21L12 23C10 22 8 20 8 17C8 9 15 6 15 6Z" fill="#38BDF8"/>
+      <circle cx="15" cy="14" r="2.5" fill="#070A14"/>
+    </g>
+    <text x="108" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC" text-anchor="middle">15+ Shipped Apps</text>
+    <text x="108" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">Live on Vercel/Netlify</text>
+    <text x="108" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#38BDF8" text-anchor="middle">End-to-End Solutions</text>
+  </g>
+
+  <!-- Trophy Card 3: AI & DS Scholar -->
+  <g transform="translate(528, 56)">
+    <rect width="216" height="154" rx="14" fill="url(#cardGrad)" stroke="#A78BFA" stroke-width="1.2"/>
+    <!-- AI Brain/Neural Spark Icon -->
+    <g transform="translate(93, 20)">
+      <circle cx="15" cy="15" r="18" fill="#4C1D95" fill-opacity="0.6"/>
+      <path d="M15 7L17 12L22 13L18 17L19 22L15 19.5L11 22L12 17L8 13L13 12L15 7Z" fill="#A78BFA"/>
+      <circle cx="15" cy="15" r="1.5" fill="#FFFFFF"/>
+    </g>
+    <text x="108" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC" text-anchor="middle">AI &amp; DS Scholar</text>
+    <text x="108" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8" text-anchor="middle">B.Tech Matoshri (MCOERC)</text>
+    <text x="108" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#A78BFA" text-anchor="middle">Multimodal &amp; GenAI</text>
   </g>
 </svg>

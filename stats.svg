@@ -1,29 +1,43 @@
-<svg width="780" height="360" viewBox="0 0 780 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="780" height="360" rx="36" fill="#020617"/>
-  <text x="42" y="58" font-family="Inter" font-size="28" fill="#A7F3D0" opacity="0.95">Local Stats</text>
-  <g transform="translate(42, 90)">
-    <rect x="0" y="0" width="690" height="12" rx="6" fill="#111827"/>
-    <rect x="0" y="0" width="520" height="12" rx="6" fill="#22D3EE">
-      <animate attributeName="width" from="0" to="520" dur="1.2s" fill="freeze"/>
-    </rect>
-    <text x="0" y="-12" font-family="Inter" font-size="16" fill="#E2E8F0">Contributions</text>
+<svg width="780" height="260" viewBox="0 0 780 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad1" x1="0" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="barGrad2" x1="0" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="barGrad3" x1="0" y1="0" x2="680" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F43F5E"/>
+    </linearGradient>
+  </defs>
 
-    <rect x="0" y="60" width="690" height="12" rx="6" fill="#111827"/>
-    <rect x="0" y="60" width="410" height="12" rx="6" fill="#34D399">
-      <animate attributeName="width" from="0" to="410" dur="1.1s" begin="0.2s" fill="freeze"/>
-    </rect>
-    <text x="0" y="48" font-family="Inter" font-size="16" fill="#E2E8F0">Repos</text>
+  <rect width="780" height="260" rx="20" fill="#070A14" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="36" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#38BDF8" letter-spacing="0.05em">ENGINEERING CAPACITY &amp; REPO ACTIVITY</text>
 
-    <rect x="0" y="120" width="690" height="12" rx="6" fill="#111827"/>
-    <rect x="0" y="120" width="600" height="12" rx="6" fill="#A855F7">
-      <animate attributeName="width" from="0" to="600" dur="1.3s" begin="0.4s" fill="freeze"/>
-    </rect>
-    <text x="0" y="108" font-family="Inter" font-size="16" fill="#E2E8F0">Activity</text>
+  <!-- Metric 1: Public Repositories (26+) -->
+  <g transform="translate(36, 60)">
+    <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Public Repositories</text>
+    <text x="708" y="16" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#38BDF8" text-anchor="end">26 Repos</text>
+    <rect x="0" y="26" width="708" height="10" rx="5" fill="#1E293B"/>
+    <rect x="0" y="26" width="620" height="10" rx="5" fill="url(#barGrad1)"/>
+  </g>
 
-    <rect x="0" y="180" width="690" height="12" rx="6" fill="#111827"/>
-    <rect x="0" y="180" width="470" height="12" rx="6" fill="#FBBF24">
-      <animate attributeName="width" from="0" to="470" dur="1.2s" begin="0.6s" fill="freeze"/>
-    </rect>
-    <text x="0" y="168" font-family="Inter" font-size="16" fill="#E2E8F0">Learning</text>
+  <!-- Metric 2: Live Production Deployments (15+) -->
+  <g transform="translate(36, 118)">
+    <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Live Web &amp; AI Deployments (Vercel, Netlify, Firebase)</text>
+    <text x="708" y="16" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#34D399" text-anchor="end">15+ Live Apps</text>
+    <rect x="0" y="26" width="708" height="10" rx="5" fill="#1E293B"/>
+    <rect x="0" y="26" width="540" height="10" rx="5" fill="url(#barGrad2)"/>
+  </g>
+
+  <!-- Metric 3: AI & Full-Stack Projects -->
+  <g transform="translate(36, 176)">
+    <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Specialized Full-Stack &amp; Multimodal AI Implementations</text>
+    <text x="708" y="16" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#A78BFA" text-anchor="end">High Velocity</text>
+    <rect x="0" y="26" width="708" height="10" rx="5" fill="#1E293B"/>
+    <rect x="0" y="26" width="660" height="10" rx="5" fill="url(#barGrad3)"/>
   </g>
 </svg>

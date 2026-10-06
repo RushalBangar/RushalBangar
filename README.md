@@ -1,33 +1,46 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-    <img src="banner.svg" alt="Rushal Bangar Banner" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/banner.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/banner-light.svg?v=3">
+    <img src="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/banner.svg?v=3" alt="Rushal Bangar Banner" width="100%" />
   </picture>
 
-  <br />
-  <br />
+  <br /><br />
 
   <a href="https://rushalbangar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-rushalbangar.netlify.app-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rushal-bangar-395a64385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rushal_Bangar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:rushalbangar19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rushalbangar19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://x.com/RushalBnagar">
-    <img src="https://img.shields.io/badge/X-@RushalBnagar-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
 
-  <br />
+  <br /><br />
 
-  [![Role](https://img.shields.io/badge/Role-Google_Student_Ambassador-059669?style=flat-square&logo=google&logoColor=white)](https://rushalbangar.netlify.app/)
-  [![Education](https://img.shields.io/badge/Education-B.Tech_AI_%26_Data_Science-4F46E5?style=flat-square&logo=academia&logoColor=white)](https://rushalbangar.netlify.app/)
-  [![Location](https://img.shields.io/badge/Location-Nashik,_India-64748B?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nashik)
-  [![Status](https://img.shields.io/badge/Status-Open_for_Opportunities-22C55E?style=flat-square)](mailto:rushalbangar19@gmail.com)
+  <a href="https://rushalbangar.netlify.app/">
+    <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-059669?style=flat-square&logo=google&logoColor=white" alt="Role" />
+  </a>
+  &nbsp;
+  <a href="https://rushalbangar.netlify.app/">
+    <img src="https://img.shields.io/badge/B.Tech%20AI%20%26%20Data%20Science-4F46E5?style=flat-square&logo=academia&logoColor=white" alt="Education" />
+  </a>
+  &nbsp;
+  <a href="https://maps.google.com/?q=Nashik">
+    <img src="https://img.shields.io/badge/Nashik%2C%20India-64748B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </a>
+  &nbsp;
+  <a href="mailto:rushalbangar19@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20for%20Opportunities-22C55E?style=flat-square" alt="Status" />
+  </a>
 
 </div>
 
@@ -49,7 +62,7 @@
     </td>
     <td width="36%" align="center" valign="middle">
       <a href="https://rushalbangar.netlify.app/">
-        <img src="lanyard.svg" alt="Rushal Bangar Developer VIP Badge" width="280" />
+        <img src="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/lanyard.svg?v=3" alt="Rushal Bangar Developer VIP Badge" width="280" />
       </a>
     </td>
   </tr>
@@ -60,7 +73,7 @@
 ### 🏆 Honors & Key Milestones
 
 <div align="center">
-  <img src="trophies.svg" alt="Honors and Key Milestones" width="100%" />
+  <img src="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/trophies.svg?v=3" alt="Honors and Key Milestones" width="100%" />
 </div>
 
 ---
@@ -192,9 +205,9 @@
 
   <br />
 
-  <img src="stats.svg" alt="Repository Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/stats.svg?v=3" alt="Repository Metrics" width="100%" />
   <br /><br />
-  <img src="langs.svg" alt="Codebase Distribution" width="100%" />
+  <img src="https://raw.githubusercontent.com/RushalBangar/RushalBangar/main/langs.svg?v=3" alt="Codebase Distribution" width="100%" />
 </div>
 
 ---
